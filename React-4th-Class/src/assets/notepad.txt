@@ -1,0 +1,4 @@
+React me variable banane k liye hooks use hota he  or react me onclick lagane k baad bracket nhi denge look like this onClick={update}
+React me jo kaam krte he wo pehle virtual DOM pr jata he or phir real DOM pr jata he
+use state hamary pass ek hook ha jo humay special type ka variable provide krta he or usi se hum kaam krtey hen
+path intelisence
